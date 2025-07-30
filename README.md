@@ -55,7 +55,7 @@ https://github.com/user-attachments/assets/7a8ca507-780c-47ed-b78a-28d16c8808e5
 
 1. **Depoyu klonlayın:**
    ```bash
-   git clone https://github.com/kullaniciadi/InsightViz.git
+   git clone https://github.com/mehmetertass/InsightViz.git
    cd InsightViz
 
 2. **Sanal ortam oluşturun (tercihen):**
